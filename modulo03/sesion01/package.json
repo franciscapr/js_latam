@@ -1,0 +1,10 @@
+{
+    "name": "my-mini-site",
+    "version": "1.0.0",
+    "scripts": {
+        "sass": "sass assets/styles/main.scss assets/css/main.css"
+    },
+    "devDependencies": {
+        "sass": "^1.35.1"
+    }
+}
