@@ -1,3 +1,47 @@
-.header {
-    background-color: blueviolet;
+
+body {
+    background-image: url('/modulo03/sesion02/assets/img/background.jpg');
+    background-size: cover;
 }
+
+.header {
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+}
+
+.logo {
+    justify-content: flex-start;
+}
+
+.logo__image {
+    max-width: 100px;
+    padding: 20px;
+}
+
+/* Bloque principal */
+.main {
+    background-image:  url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+
+.main__container {
+    color: aliceblue;
+}
+
+.main_title {
+    color: wheat;
+}
+
+.main__title-emphasis {
+    color: white;
+}
+
+.main__button {
+    font: 100;
+}
+
