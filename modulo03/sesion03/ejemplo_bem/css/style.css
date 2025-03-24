@@ -16,5 +16,61 @@
 .header__list{
     list-style: none;
     padding: 0;
-    
+    display: flex;
+    justify-content: center;
+}
+
+.header__item {
+    margin: 0 1em;
+}
+
+.header__link {
+    color: white;
+    text-decoration: none;
+}
+
+.header__item--active .header__link {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    padding: 2em;
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+.hero__title {
+    font-size:  1.5em;
+}
+
+.hero_description {
+    font-size: 1.2em;
+}
+
+.content {
+    background-color: #fff;
+    padding: 2em;
+    border: 1px solid #ddd;
+}
+
+.content__title {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
+.content__text {
+    font-size: 1em;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.footer__text {
+    margin: 0;
 }
