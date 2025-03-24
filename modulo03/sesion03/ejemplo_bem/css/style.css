@@ -1,0 +1,20 @@
+.header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.header__title {
+    font-size: 2em;
+}
+
+.header__nav{
+    margin-top: 1em;
+}
+
+.header__list{
+    list-style: none;
+    padding: 0;
+    
+}
