@@ -5,19 +5,24 @@
   font-family: "Poppins", sans-serif;
 }
 
+
 .box.container {
   margin: 20px auto;
   width: 400px;
 }
 
 /* HTML  clase 2 metodlogia 18/julio/2024*/
+/* auto --> centra el contenedor en base al contenedor padre */
+
 .box {
   margin: 10px auto;
-  width: 90%;
+  width: 30%;
   height: 65px;
   border-radius: 5px;
 }
 
+/* position:relative --> 
+float: left --> hace la que imagen flota hacia la izquierda */
 .box img {
   height: 100%;
   position: relative;
@@ -43,5 +48,12 @@
   background-color: #f7e018;
 }
 
+.box-bt {
+  background-color: #9200fb88;
+}
+
+.box-react {
+  background-color: #0199ccb0;
+}
 
 
