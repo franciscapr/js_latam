@@ -1,0 +1,12 @@
+/* etiquetas semanticas --> estructura */
+
+.header, .footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.main-content {
+    padding: 2em;
+}
