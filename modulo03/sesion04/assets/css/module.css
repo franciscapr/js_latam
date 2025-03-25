@@ -1,0 +1,35 @@
+/*  Elementos  */
+
+.header__title {
+    font-size: 2em;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    padding: 2em;
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+.hero__title {
+    font-size: 1.5em;
+}
+
+.hero__description {
+    font-size: 1.5em;
+}
+
+.content {
+    background-color: #fff;
+    padding: 2em;
+    border: 1px solid #ddd;
+}
+
+.content__title {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
+.content__text {
+    font-size: 1em;
+}
