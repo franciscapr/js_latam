@@ -1,0 +1,9 @@
+/*  Modificadores  */
+
+.hero.is-activate {
+    background-color: #791212;
+}
+
+.content.is-hidden {
+    display: none;
+}
