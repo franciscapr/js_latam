@@ -1,0 +1,20 @@
+/* Va lo general que aplica para todo */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    margin-bottom: 0.5em;
+}
+
+p{
+    margin-bottom:  1em;
+}
